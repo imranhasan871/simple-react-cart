@@ -1,33 +1,26 @@
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-
-}
-
 .header {
-    text-align: center;
+  text-align: center;
 }
 
 .header img {
-    margin-top: 15px;
-    width: 200px;
+  margin-top: 15px;
+  width: 200px;
 }
 
 .header nav {
-    background-color: rgb(45, 45, 45);
-    line-height: 40px;
-    font-size: 20px;
+  background-color: rgb(45, 45, 45);
+  line-height: 40px;
+  font-size: 20px;
 }
 
 .header nav a {
-    color: white;
-    text-decoration: none;
-    margin-right: 20px;
-    padding: 10px;
+  color: white;
+  text-decoration: none;
+  margin-right: 20px;
+  padding: 10px;
 }
 
 .header nav a:hover {
-    background-color: rgb(255, 255, 255);
-    color: rgb(45, 45, 45);
+  background-color: rgb(255, 255, 255);
+  color: rgb(45, 45, 45);
 }
